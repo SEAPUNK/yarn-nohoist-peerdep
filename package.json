@@ -8,8 +8,8 @@
       "proj"
     ],
     "nohoist": [
-      "proj/**",
-      "nice/**"
+      "nice/**",
+      "proj/**"
     ]
   },
   "devDependencies": {
