@@ -1,0 +1,8 @@
+{
+  "name": "proj",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "nice": "1.0.0"
+  }
+}

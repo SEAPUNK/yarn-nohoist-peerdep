@@ -1,0 +1,8 @@
+{
+  "name": "nice",
+  "version": "1.0.0",
+  "private": true,
+  "peerDependencies": {
+    "left-pad": "1.0.2"
+  }
+}
